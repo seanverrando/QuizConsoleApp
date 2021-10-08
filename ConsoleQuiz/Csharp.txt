@@ -1,0 +1,72 @@
+QUESTIONs: How do you declare a char in c#? Select one of the following:
+a) char myChar = 'B'; b) string myChar = "B" ;c) int myChar = 1; d) char myChar = B;
+ANSWERS:a
+
+QUESTIONS: A _____ block encloses the code that could throw an exception.
+a) Try b) Catch c) Exception d) Error
+ANSWERS:a
+
+QUESTIONS: An abstract class
+a) may contain instance variables b) may contain constuctors c) may extend another class d) a and b e) all of the above
+ANSWERS:e
+
+QUESTIONS: Exception objects are derived from the class
+a) Try b) Catch c) Exception d) Event e) System
+ANSWERS:c
+
+QUESTIONS: A method ____an exception when that method detects that a problem has occured
+a) Trys b) Catches c) Throws d) a and b
+ANSWERS:c
+
+QUESTIONS: Classes declared with the sealed keyword cannot be base class.
+a) True b) False
+ANSWERS:a
+
+QUESTIONS: The code public class B : A {}
+a) Defines a class that inherits all the methods of A b) Defines a class that inherits the public and protected methods of A only c) Errors d) a and b
+ANSWERS:b
+
+QUESTIONS: Methods that are decalered abstract in the base class must show implementation at the time of declaration.
+a) True b) False
+ANSWERS:b
+
+QUESTIONS: All methods in an abstract base class must be declared abstract
+a) True b) False
+ANSWERS:b
+
+QUESTIONS: To output the value of multidimensional array, Console.WriteLines(____)
+a) myArray[1][3]; b) myArray[1.3]; c) myArray{1}{3}; d) myArray(1),(3);
+ANSWERS:a 
+
+QUESTIONS: Polymorphism occurs when the methods of the child class.
+a) Override the parent class methods but maitain the implementation b) Maintain the same return type and arguements as the parent class, but implement it differently c) Have different return types and arguments than the parent class d) Are Virtual
+ANSWERS:b
+
+QUESTIONS: The concept of composition specifies that you can.
+a) Compose good code with C# b) Compose C# projects with different objects c) Reduce errors by remaining composed during programming  d) all of the above
+ANSWERS:b
+
+QUESTIONS: Every class directly or indirectly extends the ___ class.
+a) System b) Object c) Drawing d) Console
+ANSWERS:b
+
+QUESTIONS: In order for a class the use an inferface, it must
+a) inherit the prope
+rties of the interface b) contain the same methods as the interface c) create an interface objects d) a and b e) all of the above
+ANSWERS:e
+
+QUESTIONS: What is the proper header for a class that intends 
+a) class MyClass IFace b) class MyClass ; IFace c) class MyClass : IFace d) class MyCalss {IFace} e) class MyCalss(IFace)
+ANSWERS:c
+
+QUESTIONS: All interfaces must contain IDrivable
+a) True b) False
+ANSWERS:b
+
+QUESTIONS: Is it possible to pass methods as argurments for other methods without modification
+a) True b) False
+ANSWERS:a
+
+QUESTIONS: A delegate defines
+a) a Washington representative b) a class that encapsulates methods c) a means of passing arrays into methods d) a substitue for an inherited method
+ANSWERS:b

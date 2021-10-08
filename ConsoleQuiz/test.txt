@@ -1,0 +1,12 @@
+QUESTION: How do you declare a char in c#? Select one of the following:
+a) char myChar = 'B'; b) string myChar = "B" ; c) int myChar = 1;  d) char myChar = B;
+ANSWER:a
+
+QUESTION: A _____ block encloses the code that could throw an exception.
+a) Try b) Catch c) Exception d) Error
+ANSWER:a
+
+QUESTION: An abstract class
+a) may contain instance variables b) may contain constuctors c) may extend another class d) a and b e) all of the above 
+ANSWER:e
+
