@@ -1,12 +1,26 @@
-QUESTION: How do you declare a char in c#? Select one of the following:
+QUESTIONS: How do you declare a char in c#? Select one of the following:
 a) char myChar = 'B'; b) string myChar = "B" ; c) int myChar = 1;  d) char myChar = B;
-ANSWER:a
+ANSWERS:a
 
-QUESTION: A _____ block encloses the code that could throw an exception.
+QUESTIONS: A _____ block encloses the code that could throw an exception.
 a) Try b) Catch c) Exception d) Error
-ANSWER:a
+ANSWERS:a
 
-QUESTION: An abstract class
+QUESTIONS: An abstract class
 a) may contain instance variables b) may contain constuctors c) may extend another class d) a and b e) all of the above 
-ANSWER:e
+ANSWERS:e
 
+QUESTIONS:  public class sample
+ {
+     public static int x = 100;
+     public static int y = 150;
+ 
+ }
+ public class newspaper :sample
+ {
+     new public static int x = 1000;
+     static void Main(string[] args)
+     {
+         console.writeline(sample.x + "  " + sample.y + "  " + x);
+     }
+ }

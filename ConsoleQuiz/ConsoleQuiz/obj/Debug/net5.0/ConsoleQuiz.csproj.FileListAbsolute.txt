@@ -1,0 +1,16 @@
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\bin\Debug\net5.0\ConsoleQuiz.exe
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\bin\Debug\net5.0\ConsoleQuiz.deps.json
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\bin\Debug\net5.0\ConsoleQuiz.runtimeconfig.json
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\bin\Debug\net5.0\ConsoleQuiz.runtimeconfig.dev.json
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\bin\Debug\net5.0\ConsoleQuiz.dll
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\bin\Debug\net5.0\ref\ConsoleQuiz.dll
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\bin\Debug\net5.0\ConsoleQuiz.pdb
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\obj\Debug\net5.0\ConsoleQuiz.csproj.AssemblyReference.cache
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\obj\Debug\net5.0\ConsoleQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\obj\Debug\net5.0\ConsoleQuiz.AssemblyInfoInputs.cache
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\obj\Debug\net5.0\ConsoleQuiz.AssemblyInfo.cs
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\obj\Debug\net5.0\ConsoleQuiz.csproj.CoreCompileInputs.cache
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\obj\Debug\net5.0\ConsoleQuiz.dll
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\obj\Debug\net5.0\ref\ConsoleQuiz.dll
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\obj\Debug\net5.0\ConsoleQuiz.pdb
+C:\Users\seanv\Desktop\ConsoleQuiz\ConsoleQuiz\obj\Debug\net5.0\ConsoleQuiz.genruntimeconfig.cache

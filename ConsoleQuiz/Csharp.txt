@@ -1,5 +1,5 @@
-QUESTIONs: How do you declare a char in c#? Select one of the following:
-a) char myChar = 'B'; b) string myChar = "B" ;c) int myChar = 1; d) char myChar = B;
+QUESTIONS: How do you declare a char in c#? Select one of the following:
+a) char myChar = 'B'; b) string myChar = "B" ; c) int myChar = 1; d) char myChar = B;
 ANSWERS:a
 
 QUESTIONS: A _____ block encloses the code that could throw an exception.
@@ -34,7 +34,7 @@ QUESTIONS: All methods in an abstract base class must be declared abstract
 a) True b) False
 ANSWERS:b
 
-QUESTIONS: To output the value of multidimensional array, Console.WriteLines(____)
+QUESTIONS: To output the value of multidimensional array, Console.WriteLines____
 a) myArray[1][3]; b) myArray[1.3]; c) myArray{1}{3}; d) myArray(1),(3);
 ANSWERS:a 
 
@@ -70,3 +70,172 @@ ANSWERS:a
 QUESTIONS: A delegate defines
 a) a Washington representative b) a class that encapsulates methods c) a means of passing arrays into methods d) a substitue for an inherited method
 ANSWERS:b
+
+
+QUESTIONS: What is the range of an byte?
+a) -128 to -127  b) 0 to 255  c) 0 to 155 d) -127 to 128
+ANSWERS:b
+
+
+QUESTIONS: A float is how many bytes?
+a) 4 b) 8 c) 16 d) 32
+ANSWERS:a
+
+
+QUESTIONS: A double is how many bytes?
+a) 4 b) 8 c) 16 d) 32
+ANSWERS:b
+
+
+QUESTIONS: A decimal is how many bytes?
+a) 4 b) 8 c) 16 d) 32
+ANSWERS:c
+
+
+QUESTIONS: What is the range of an sbyte?
+a) -128 to -127  b) 0 to 255  c) 0 to 155 d) -127 to 128
+ANSWERS:a
+
+
+QUESTIONS: How many bits in an int?
+a) 32 b) 8 c) 16 d) 64
+ANSWERS:a
+
+
+QUESTIONS: How many bits in an byte?
+a) 32 b) 8 c) 16 d) 64
+ANSWERS:b
+
+
+QUESTIONS: How many bits in an short
+a) 32 b) 8 c) 16 d) 64
+ANSWERS:c
+
+QUESTIONS: How many bits in an long?
+a) 32 b) 8 c) 16 d) 64
+ANSWERS:d
+
+
+QUESTIONS: A stack is first in and first out(FIFO). True or False
+a) true b) false 
+ANSWERS:b
+
+
+QUESTIONS: A Queue is last in first out(LIFO). True or false.
+a) true b) false
+ANSWERS:b
+
+QUESTIONS: Abstract class contains _____.
+a) Abstract methods b) Non Abstract methods c)Both d) None
+ANSWERSc
+
+QUESTIONS: The default scope for the members of an interface is _____.
+a) private b) public c) protected d) internal
+ANSWERS:b
+
+QUESTIONS:  The capability of an object in Csharp to take number of different forms and hence display behaviour as according is known as ___________
+a) Encapsulation b) Polymorphism c) Abstraction d) None of the mentioned
+ANSWERS:b
+
+QUESTIONS: Which of the following keyword is used to change data and behavior of a base class by replacing a member of the base class with a new derived member?
+a) Overloads b) Overrides c) new d) base
+ANSWERS:c
+
+QUESTIONS: Which of the following is correct about reference type variables in C#?
+a) The reference types do not contain the actual data stored in a variable. b) They contain a reference to the variables. c) Example of built-in reference types are: object, dynamic, and string. d) All of the above.
+ANSWERS:d
+
+QUESTIONS: Which of the following operator returns the size of a data type in C#?
+a) sizeof b) typeof c) &</a> d) *
+ANSWERS:a
+
+QUESTIONS: C# supports multiple inheritance.
+a) true b) false 
+ANSWERS:b
+
+QUESTIONS: The space required for structure variables is allocated on the stack. 
+a) true b) false 
+ANSWERS:a
+
+QUESTIONS: Which of the following is incorrect about constructors?
+a) Defining of constructors can be implicit or explicit. b) The calling of constructors is explicit. c) Implicit constructors can be parameterized or parameterless. d) Explicit constructors can be parameterized or parameterless.
+
+ANSWERS:d
+
+QUESTIONS: Reference is a ___.
+a) Copy of class which leads to memory allocation. b) Copy of class that is not initialized. c) Pre-defined data type. d) Copy of class creating by an existing instance.
+ANSWERS:d
+
+QUESTIONS: The data members of a class by default are?
+a) protected, public b) private, public c) private d) public
+ANSWERS:c
+
+QUESTIONS: Struct’s data members are ___ by default.
+a) Protected b) Public c) Private d) Default
+ANSWERS:c
+
+QUESTIONS: The point at which an exception is thrown is called the _____.
+a) Default point b) Invoking point c) Calling point d) Throw point
+ANSWERS:d
+
+QUESTIONS: Which of the following statements are correct for C# language?
+a) Every derived class does not define its own version of the virtual method. b) By default, the access mode for all methods in C# is virtual. c) If a derived class, does not define its own version of the virtual method, then the one present in the base class gets used. d) All of the above.
+ANSWERS:c
+
+QUESTIONS: In c#, the attributes information for a Class can be retrieved at:
+a) compile time b) runtime c) both 
+ANSWERS:b
+
+QUESTIONS: The operator used to access member function of a class?
+a) : b) :: c) . d) #
+ANSWERS:#
+
+QUESTIONS: Correct way of declaration of object of the following class is?
+a) name n = new name(); b) n = name(); c) name n = name(); d) n = new name();
+ANSWERS:a
+
+QUESTIONS: Which procedure among the following should be used to implement a ‘Has a’ or a ‘Kind of’ relationship between two entities?
+a)  Polymorphism b) Inheritance c) Templates d) All of the mentioned
+ANSWERS:b
+
+QUESTIONS: The number of levels of inheritance are?
+a) 5 b) 4 c) 3 d) 2
+ANSWERS:b
+
+QUESTIONS: Select the class visibility modifiers among the following:
+a) Private, protected, public b) Private, protected, public, internal, protected internal c) Private, protected, public d) All of the mentioned
+ANSWERS:b
+
+QUESTIONS:  In Inheritance concept, which of the following members of base class are accessible to derived class members? 
+a) static b) protected c) private d) shared
+ANSWERS:b
+
+QUESTIONS: A class member declared protected becomes member of subclass of which type?
+a)  public member b) private member c) protected member d) static member
+ANSWERS:d
+
+QUESTIONS: Which statement correctly defines Interfaces in C#.NET?
+a) Interfaces cannot be inherited b) Interfaces consists of data static in nature and static methods c) Interfaces consists of only method declaration d) None of the mentioned
+ANSWERS:d
+
+QUESTIONS: Which of the following cannot be used to declare an interface correctly?
+a) Properties b) Methods c) Structures d) Events
+ANSWERS:c
+
+QUESTIONS: Which keyword is used for correct implementation of an interface in C#.NET?
+a) interface b) Interface c) intf d) Intf
+ANSWERS:a
+
+QUESTIONS:  Which of the following is the correct way of implementing an interface addition by class maths?
+a) class maths : addition {} b) class maths implements addition {} c)  class maths imports addition {} d) none of the mentioned
+ANSWERS:a
+
+QUESTIONS: What is Recursion in CSharp defined as?
+a) Recursion is another form of class b) Recursion is another process of defining a method that calls other methods repeatedly c) Recursion is a process of defining a method that calls itself repeatedly d) Recursion is a process of defining a method that calls other methods which in turn calls this method
+ANSWERS:c
+
+QUESTIONS:  Which of these will happen if the recursive method does not have a base case?
+a) Infinite loop condition occurrence b) System gets hanged c) After 10000 executions program will be automatically stopped d) None of the mentioned
+ANSWERS:
+
+
