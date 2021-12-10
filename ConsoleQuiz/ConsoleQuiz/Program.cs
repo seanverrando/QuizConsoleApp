@@ -14,6 +14,7 @@ namespace ConsoleQuiz
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //hello
 
             string data = @"C:\Users\seanv\Desktop\ConsoleQuiz\test.txt";
             List<string> questions = new List<string>();
